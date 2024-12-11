@@ -67,6 +67,8 @@ Difficulty Settings: Option to adjust game difficulty.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+This project doesn't work in visual studio app sometime in my computer but sometime does. I don't know what is the problem.
+But my project works in spyder app really well so if you can't run the code in vs please try in spyder app.
 
 ![screeenshot1](https://github.com/user-attachments/assets/d418ca6d-50e3-458e-bc21-270132d08e13)<img width="798" alt="Screenshot 2" src="https://github.com/user-attachments/assets/078bc534-b6e0-4a5f-b395-b7d059f91877">
 
